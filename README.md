@@ -49,19 +49,36 @@ pnpm run start:engine:dev
 pnpm run start:engine:prod
 ```
 
-## Test
+## Prodev Hackathon
 
-## Support
+### Problem Definition
 
-Please reach out to <hello@ensemble.codes>
+We decided to focus of efficient dividends distribution for security tokens, and accompanying solutions to the related security tokens activities.
 
-## Stay in touch
+## Solution
 
-- Author - [Leon Prouger](https://twitter.com/leonprou)
-- Website - [ensemble.codes](https://ensemble.codes/)
-- Documentation - [https://ensemble-2.gitbook.io/ensemble](https://ensemble-2.gitbook.io/ensemble)
-- Twitter - [@EnsembleCodes](https://x.com/EnsembleCodes)
+### Overview
 
-## License
+We are developed a reliable automation that performs the dividends distribution process. Our solutions powered by the Ensemble platform. Ensemble is a platform that makes it easy to create and securely execute automated workflows that operate over multiple smart contracts and networks.
 
-Ensemble is [MIT licensed](LICENSE).
+## How to run
+
+In case you want to run the solution locally, here's the guide:
+- Read the [Getting Started guide](https://github.com/ensemble-codes/ensemble-cli?tab=readme-ov-file#getting-started) to setup the environment.
+- Use [dividends manual](https://github.com/ensemble-codes/ensemble-cli/blob/main/manuals/dividents.md) to get the guideline how to run the dedicated workflow.
+- https://docs.ensemble.codes/
+
+## Important notes
+
+While Ensemble inteface is on the roadmap, we suggest to use the [Ensemble CLI](https://github.com/ensemble-codes/ensemble-cli) to interact with the platform. Using the CLI, you can create, read, update and delete your workflows.
+
+## Involed repositories
+
+- [Ensemble CLI](https://github.com/ensemble-codes/ensemble-cli)
+- [Ensemble Engine](https://github.com/ensemble-codes/ensemble-engine)
+- [Dividends Distribution Contracts](https://github.com/ensemble-codes/dividends-distribution-contracts)
+
+### Team
+
+- [Leon Prouger](https://github.com/leonprou)
+- [Bertrand Juglas](https://github.com/bertux)
